@@ -28,7 +28,7 @@ The clustering and classifications strategies used for the above dataset in orde
 and classify the action performed by the user are:
 
     Algorithm
-|-----------------|
+| --------------- |
 K nearest neighbours
 Logistic Regression
 XGBoost
