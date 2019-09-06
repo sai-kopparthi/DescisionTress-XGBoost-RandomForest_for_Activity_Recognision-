@@ -1,5 +1,5 @@
 # DescisionTress-XGBoost-RandomForest_for_Activity_Recognision
-<h1> Data
+<h1> Data <h1>
 The dataset is taken from UCI Repository named as Heterogeneity Activity Recognition
 Data Set. The data is characterized as Multivariate and is used for associated task like
 Clustering and classification.
