@@ -33,3 +33,11 @@ and classify the action performed by the user are:
 | Logistic Regression |
 | XGBoost |
 | Random Forest 
+
+# 4 Accuracy's
+ Algorithms        |  Avg Accuracy | Avg Time
+| :--------------- | :------------: | ---------:|
+| K nearest neighbours | 81.15  | 966.31 |
+| Logistic Regression | 83.5  | 312.5 |
+| XGBoost | 86.04 |  7.134 |
+| Random Forest | 82.99 | 8.19 |
