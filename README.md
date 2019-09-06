@@ -27,9 +27,9 @@ faster. We wrote this code in R programming Language.
 The clustering and classifications strategies used for the above dataset in order to identify
 and classify the action performed by the user are:
 
-    * Algorithm *
+    Algorithms
 | --------------- |
-K nearest neighbours |
-Logistic Regression |
-XGBoost |
-Random Forest 
+| K nearest neighbours |
+| Logistic Regression |
+| XGBoost |
+| Random Forest 
